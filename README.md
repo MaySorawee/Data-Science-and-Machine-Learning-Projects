@@ -1,7 +1,6 @@
 # Data-Science-and-Machine-Learning-Projects
 
 ## Projects
-1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
+1. [Nature of Cancer Tumours Prediction](https://github.com/MaySorawee/Data-Science-and-Machine-Learning-Projects/tree/bb97a251c3bd99931b765e7dcd66355d898b9b95/Nature%20of%20Cancer%20Tumours%20Prediction)
    - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
-   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
-   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+   - **Technologies Used:** The notebooks uses K-nearest neighbor, Support Vector Machine, and Multi-layer Perceptron
