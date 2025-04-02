@@ -5,3 +5,4 @@ Welcome to my Data Science & Machine Learning Projects repository! 🚀 This spa
 1. [Nature of Cancer Tumours Prediction](https://github.com/MaySorawee/Data-Science-and-Machine-Learning-Projects/tree/bb97a251c3bd99931b765e7dcd66355d898b9b95/Nature%20of%20Cancer%20Tumours%20Prediction)
 2. [Dog Breeds Classification](https://github.com/MaySorawee/Data-Science-and-Machine-Learning-Projects/tree/1940fdc06bc66ba0c926e71e2cb3e4c3e219e6ec/Dog%20Breeds%20Classification)
 3. [Face Generation](https://github.com/MaySorawee/Data-Science-and-Machine-Learning-Projects/tree/8506df2fcae3e3c1c763d7c6c3c4423478652cf8/Face%20generation)
+4. [Amazon Fine Food Reviews - Sentiment Analysis](https://github.com/MaySorawee/Data-Science-and-Machine-Learning-Projects/tree/de8673e438a7f47e08ad74246ab2c0f0a40dbcb0/Amazon%20Fine%20Food%20Reviews%20-%20Sentiment%20Analysis)
